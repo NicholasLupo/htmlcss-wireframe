@@ -1,3 +1,29 @@
+* {
+    margin-bottom: 30px;
+}
+
 body {
     width: 512px;
+    margin: 1rem;
+}
+
+hr {
+    border-style: solid;
+    color: black;
+}
+
+section {
+    border-style: solid;
+}
+
+p {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0;
+}
+
+h2 {
+    margin-left: 1rem;
+    margin-bottom: 0;
 }
