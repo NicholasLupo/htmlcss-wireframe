@@ -1,7 +1,6 @@
 * {
     margin-top: 1rem;
     margin-bottom: 1rem;
-    margin-right: 1rem;
 }
 
 html {
@@ -25,8 +24,8 @@ hr {
 
 section {
     border-style: solid;
-    width: 412px;
-    height: 140px;
+    max-width: 412px;
+    min-height: 140px;
     margin-left: 2rem;
 }
 
