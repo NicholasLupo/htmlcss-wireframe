@@ -1,19 +1,33 @@
 * {
-    margin-bottom: 30px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+html {
+    margin: 0;
 }
 
 body {
     width: 512px;
-    margin: 1rem;
+    border-style: dashed;
+}
+
+header {
+    margin-left: 2rem;
 }
 
 hr {
     border-style: solid;
     color: black;
+    margin: 0%;
 }
 
 section {
     border-style: solid;
+    width: 412px;
+    height: 140px;
+    margin-left: 2rem;
 }
 
 p {
